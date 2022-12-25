@@ -1,5 +1,3 @@
-# `@nonolai`
-
 I'm a software engineer fascinated by all aspects of computer science. But mostly things that are useful :)
 
 ## Projects
