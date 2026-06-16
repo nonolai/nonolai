@@ -11,6 +11,8 @@ mostly things that are useful :)
     down what you _actually_ want from a list of options
 *   [koal](https://koal.nonolai.dev) - A shopping list app, whose main goal is
     sharing Christmas lists that prevent double buying
+*   [Epic Roster](https://epicroster.nonolai.dev) - A tool for building rosters
+    of [Epic Seven](https://epic7.onstove.com/) characters for easy sharing.
 
 ### Packages
 
