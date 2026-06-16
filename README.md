@@ -9,6 +9,8 @@ mostly things that are useful :)
     [Scryfall](https://scryfall.com/) with autocomplete
 *   [WDIW (What Do I Want)](https://wdiw.nonolai.dev) - A tool to help narrow
     down what you _actually_ want from a list of options
+*   [koal](https://koal.nonolai.dev) - A shopping list app, whose main goal is
+    sharing Christmas lists that prevent double buying
 
 ### Packages
 
